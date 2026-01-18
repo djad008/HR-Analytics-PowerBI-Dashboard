@@ -36,6 +36,8 @@ The dashboard is designed to help HR teams and management make data-driven decis
 - Gender-wise employee distribution
 - Headcount and cumulative growth over time
 - Interactive filters for Gender and Job Title
+## 📷 Dashboard Preview
+![Power BI HR Dashboard](screenshots/powerbi_hr_dashboard.png)
 
 ---
 
